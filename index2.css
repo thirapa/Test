@@ -1,0 +1,25 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.border1{ 
+    border: 1px solid black;
+    width: 240px;
+    height: 200px;
+    margin-left: 10px;    
+    margin-right: 10px;
+}
+.border2{ 
+    border: 1px solid black;
+    width: 240px;
+    height: 200px;    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.border3{ 
+    border: 1px solid black;
+    width: 240px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
